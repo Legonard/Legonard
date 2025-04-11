@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Legonard
+- 👀 I’m interested in informatic
+- 🌱 I’m currently learning a few programming languages
+- 💞️ I’m looking to collaborate on linux and FOSS projects
+- 📫 How to reach me on Discord: _legonard_
+- 😄 Pronouns: Normal, I mean like he/him or something
+- ⚡ Fun fact: Nearly 100% of servers worldwide use linux as their operating system
